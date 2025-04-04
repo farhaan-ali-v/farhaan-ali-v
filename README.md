@@ -1,17 +1,17 @@
 <!-- aesthetic but not boring, quirky but clean -->
-<h1 align="center">⚡ Farhaan Ali ⚡</h1>
+<h1 align="center">⚡ FarhaanAli Vohra ⚡</h1>
 <p align="center">
   <i>Full-time dreamer, part-time debugger.</i><br>
-  B.Tech CSE @ CHARUSAT 💻 | Building cool stuff 🚀 | Fusing logic with vibes
+  B.Tech CE @ CHARUSAT 💻 | Building cool stuff 🚀 | Fusing logic with vibes
 </p>
 
 ---
 
-### 🤖 Who dis?
+### 🤖 Who's this?
 - 🧠 Tech enthusiast + lowkey philosopher
-- 🛠️ C++ is my sword, Python my spellbook
+- 🛠️ C++ is my sword, Javascript my spellbook
 - 🧩 Current mood: breaking down complex problems like LEGO sets
-- 🧃 Fuelled by chai, lo-fi beats & late-night bug hunts
+- 🧃 Fuelled by chai & late-night bug hunts
 
 ---
 
@@ -33,9 +33,9 @@
 
 | Project | What it does | Built with |
 |--------|----------------|------------|
-| 🧠 [Padhloop](https://github.com/FarhaanAli27/Padhloop) | Adaptive learning system for students who deserve better than boring lectures | Python, Flask, ML |
-| 🤝 [Sevabee](https://github.com/FarhaanAli27/Sevabee) | Connecting people who need help with people who vibe helping | JS, Firebase, HTML/CSS |
-| 🔬 [CellScan](https://github.com/FarhaanAli27/CellScan) | Detects sus cell patterns, makes you feel like a medtech wizard | OpenCV, Python, NumPy |
+| 🧠 [Padhloop](https://github.com/Farhaan-ali-v/Padhloop) | Adaptive learning system for students who deserve better than boring lectures | ReactJS, NodeJS, MongoDB |
+| 🤝 [Sevabee](https://github.com/Farhaan-ali-v/Sevabee) | Connecting people who need help with people who vibe helping | JS, MongoDB, ReactJS |
+| 🔬 [CellScan](https://github.com/Farhaan-ali-v/CellScan) | Detects sus cell patterns, makes you feel like a medtech wizard | OpenCV, Python, NumPy, NextJS |
 
 ---
 
@@ -45,7 +45,7 @@
 |------|----------|
 | 🖥️ Computer Hardware Basics | Cisco |
 | 📊 MATLAB Onramp | MathWorks |
-| ⚙️ Python for Everybody (in progress) | Coursera |
+| ⚙️ DSA with JAVA | NPTEL |
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 
-### 📈 Stats that make recruiters go “hmm interesting”
+### 📈 Stats that make recruiters go “hmmm interesting”
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FarhaanAli27&show_icons=true&theme=radical" width="45%"/>
@@ -68,8 +68,8 @@
 
 ### 🔍 Find me where the code meets the chaos
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/farhaan-ali-vohra/)
-- 📷 [Instagram (art+life)](https://instagram.com/your_ig_handle)
+- 💼 [LinkedIn](https://www.linkedin.com/in/farhaanali-vohra-315b76275/)
+- 📷 [Instagram (art+life)](https://instagram.com/f.ali_27)
 - 🧠 Learning in public on GitHub, 'cause why not?
 
 ---
