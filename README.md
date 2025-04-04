@@ -57,14 +57,7 @@
 
 ---
 
-### 📈 Stats that make recruiters go “hmmm interesting”
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarhaanAli27&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhaanAli27&theme=radical" width="45%"/>
-</p>
-
----
 
 ### 🔍 Find me where the code meets the chaos
 
