@@ -1,7 +1,8 @@
 <!-- RETRO-TERMINAL STYLE HEADER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=terminal&fontColor=00FF00&color=000000&height=200&section=header&text=FarhaanAli%20Vohra&desc=Writing%20Code%20Like%20Poetry%20on%20a%20Dark%20Terminal&descAlignY=60&animation=fadeIn" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=terminal&color=0d1117&fontColor=00FF00&text=FarhaanAli%20Vohra&desc=Writing%20Code%20Like%20Poetry%20on%20a%20Dark%20Terminal&descAlignY=60&animation=fadeIn&height=200" />
+</p>
+
 
 ---
 
@@ -74,6 +75,7 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhaan-ali-v&theme=radical" />
 </p>
+
 
 ---
 
