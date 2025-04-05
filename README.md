@@ -1,90 +1,88 @@
-<h1 align="center">FarhaanAli Vohra ⚡</h1>
+<!-- RETRO-TERMINAL STYLE HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=terminal&fontColor=00FF00&color=000000&height=200&section=header&text=FarhaanAli%20Vohra&desc=Writing%20Code%20Like%20Poetry%20on%20a%20Dark%20Terminal&descAlignY=60&animation=fadeIn" />
+</div>
+
+---
+
+<h3 align="center">⚡ Full-time dreamer, part-time debugger ⚡</h3>
 <p align="center">
-  <i>Engineering logic, sketching ideas, chasing clarity.</i><br>
-  B.Tech CE @ CHARUSAT • Developer with a creative twist
+  B.Tech CE @ CHARUSAT 🧠 | Creative Technophile 💻 | Breaking logic & boundaries  
 </p>
 
 ---
 
-### 🧠 About Me
-
-- Passionate about building systems that *do more than just run*
-- Comfortable in C++, curious in Python, chaotic in JavaScript
-- Problem-solving feels like solving a riddle (minus the wizard hat)
-- Never says no to a cup of chai or a chance to debug at 2 AM
-
----
-
-### 🛠️ Tech Stack
-
+### 💻 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,vscode&theme=light" alt="Tech stack icons" />
-</p>
-
-<p align="center">
-  <em>Auto-themed: changes based on light/dark mode</em>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,nodejs,react,mongodb,git,vscode" />
 </p>
 
 ---
 
-### 🚀 Projects
-
-| Project | Description | Stack |
-|--------|-------------|--------|
-| **[Padhloop](https://github.com/Farhaan-ali-v/Padhloop)** | Adaptive learning for students who deserve better than boring | ReactJS, NodeJS, MongoDB |
-| **[Sevabee](https://github.com/Farhaan-ali-v/Sevabee)** | A bridge between people who need help and those who can offer it | JavaScript, MongoDB, ReactJS |
-| **[CellScan](https://github.com/Farhaan-ali-v/CellScan)** | Identifying cell anomalies with computer vision | Python, OpenCV, NextJS, NumPy |
+### 🧠 What Drives Me
+- I build because I get bored easily—and bugs keep me humble.
+- Clean code? Love it. Chaotic side projects? Even better.
+- Every late-night debug hits different with chai and music.
 
 ---
 
-### 📄 Certifications
+### 🔭 Featured Projects
 
-| Title | Platform |
-|-------|----------|
+| 🚀 Project | 🧩 Description | 🛠️ Stack |
+|-----------|----------------|----------|
+| [**Padhloop**](https://github.com/Farhaan-ali-v/Padhloop) | Adaptive learning system that doesn't bore students to sleep | ReactJS, NodeJS, MongoDB |
+| [**Sevabee**](https://github.com/Farhaan-ali-v/Sevabee) | Platform to connect helpers & help-seekers | JS, MongoDB, ReactJS |
+| [**CellScan**](https://github.com/Farhaan-ali-v/CellScan) | Detects sus cell patterns with a medtech edge | OpenCV, Python, NumPy, NextJS |
+
+---
+
+### 📜 Certified Not-a-Bot
+
+| 🎓 Certificate | 🏢 Platform |
+|----------------|-------------|
 | Computer Hardware Basics | Cisco |
 | MATLAB Onramp | MathWorks |
 | DSA with Java | NPTEL |
 
 ---
 
-### 🎯 Current Goals
-
-- Build tools with real-world impact  
-- Dive deep into Machine Learning (no shortcuts, just the grind)  
-- Blend front-end creativity with back-end logic  
-- Collaborate, compete, and learn along the way
+### 🎯 Currently Navigating Through:
+- 🔍 Machine Learning from scratch (no skipping tutorials this time)
+- 🧪 Designing with code – creative frontend coming up
+- 🤝 Open to internships, collabs & competition teams
 
 ---
 
-### 📊 GitHub Stats
+### 🎧 Brain Fuel
 
+> _“Trees sway towards the light that paints their leaves. I sway towards what feeds my brain—code, art & chaos.”_  
+> — FarhaanAli
+
+---
+
+### 📡 Connect With Me
+
+- 📎 [LinkedIn](https://www.linkedin.com/in/farhaanali-vohra-315b76275/)
+- 📸 [Instagram](https://instagram.com/f.ali_27)
+- 👨‍💻 Here on GitHub—where it’s all chaos & commits
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farhaan-ali-v&show_icons=true&theme=transparent" alt="Farhaan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Farhaan-ali-v&show_icons=true&theme=radical" alt="Farhaan's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhaan-ali-v&theme=radical" />
 </p>
 
+---
+
+### 🐍 Snake Eating My Contribution Graph
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Farhaan-ali-v&theme=transparent" alt="GitHub Streaks" />
+  <img src="https://raw.githubusercontent.com/Farhaan-ali-v/Farhaan-ali-v/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### 🌐 Connect
+### 🧾 Bonus Terminal Wisdom
 
-- 📎 [LinkedIn](https://www.linkedin.com/in/farhaanali-vohra-315b76275/)  
-- 📸 [Instagram](https://instagram.com/f.ali_27)  
-- 🧠 Right here, on GitHub
-
----
-
-### 🍃 Final Note
-
-<blockquote>
-"Trees sway toward the light that paints their leaves.  
-I sway toward whatever feeds my brain—code, art, and curiosity."
-</blockquote>
-
----
-
-<p align="center">
-  Made with patience, pixels, and perspective ✦
-</p>
