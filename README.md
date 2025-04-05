@@ -1,8 +1,7 @@
 <!-- RETRO-TERMINAL STYLE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=terminal&color=0d1117&fontColor=00FF00&text=FarhaanAli%20Vohra&desc=Writing%20Code%20Like%20Poetry%20on%20a%20Dark%20Terminal&descAlignY=60&animation=fadeIn&height=200" />
+  <img src="assets/Chatgpt Image Apr 5,2025, 09_07_33 AM.png" alt="FarhaanAli Banner" />
 </p>
-
 
 ---
 
