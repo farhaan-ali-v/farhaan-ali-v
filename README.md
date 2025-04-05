@@ -82,6 +82,7 @@
   <img src="https://raw.githubusercontent.com/Farhaan-ali-v/Farhaan-ali-v/output/github-contribution-grid-snake.svg" />
 </p>
 
+
 ---
 
 ### 🧾 Bonus Terminal Wisdom
