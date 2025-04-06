@@ -5,9 +5,9 @@
 
 ---
 
-<h3 align="center">⚡ Full-time dreamer, part-time debugger ⚡</h3>
+<h3 align="center"> Full-time dreamer, part-time debugger </h3>
 <p align="center">
-  B.Tech CE @ CHARUSAT 🧠 | Creative Technophile 💻 | Breaking logic & boundaries  
+  B.Tech CE @ CHARUSAT | Breaking logic & boundaries  
 </p>
 
 ---
