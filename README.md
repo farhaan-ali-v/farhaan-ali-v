@@ -1,6 +1,6 @@
 <!-- RETRO-TERMINAL STYLE HEADER -->
 <p align="center">
-  <img src="assets/Chatgpt Image Apr 5,2025, 09_07_33 AM.png" alt="FarhaanAli Banner" />
+  <img src="assets/ChatGPT Image Apr 5, 2025, 09_07_33 AM.png" />
 </p>
 
 ---
