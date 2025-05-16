@@ -1,6 +1,6 @@
 <!-- RETRO-TERMINAL STYLE HEADER -->
 <p align="center">
-  <img src="assets/Cool Text - Farhaan-ali-v 479901190802946.png" />
+  <img src="assets/Cool Text - Farhaan-ali-v 479901190802946.png" width=20% height=10%/>
 </p>
 
 ---
