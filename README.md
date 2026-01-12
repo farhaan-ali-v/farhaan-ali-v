@@ -53,14 +53,14 @@
 
 ---
 
-### 🎧 Brain Fuel
+### 🎧 wisdom
 
-> _“Trees sway towards the light that paints their leaves. I sway towards what feeds my brain—code, art & chaos.”_  
+> _“Trees sway towards the light that paints their leaves”_  
 > — FarhaanAli
 
 ---
 
-### 📡 Connect With Me
+### 📡 connect
 
 - 📎 [LinkedIn](https://www.linkedin.com/in/farhaanali-vohra-315b76275/)
 - 📸 [Instagram](https://instagram.com/f.ali_27)
