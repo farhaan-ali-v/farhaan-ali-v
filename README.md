@@ -5,9 +5,9 @@
 
 ---
 
-<h3 align="center"> Full-time dreamer, part-time debugger </h3>
+<h3 align="center"> not your avg techbro </h3>
 <p align="center">
-  B.Tech CE @ CHARUSAT | Breaking logic & boundaries  
+  B.Tech CE @ CHARUSAT
 </p>
 
 ---
@@ -19,11 +19,8 @@
 
 ---
 
-### 🧠 What Drives Me
-- I build because I get bored easily—and bugs keep me humble.
-- Clean code? Love it. Chaotic side projects? Even better.
-- Every late-night debug hits different with chai and music.
-
+- I build because I get bored easily
+  
 ---
 
 ### 🔭 Featured Projects
@@ -34,9 +31,10 @@
 | [**Sevabee**](https://github.com/Farhaan-ali-v/Sevabee) | Platform to connect helpers & help-seekers | JS, MongoDB, ReactJS |
 | [**CellScan**](https://github.com/Farhaan-ali-v/CellScan) | Detects sus cell patterns with a medtech edge | OpenCV, Python, NumPy, NextJS |
 
+
 ---
 
-### 📜 Certified Not-a-Bot
+### 📜 Certifications
 
 | 🎓 Certificate | 🏢 Platform |
 |----------------|-------------|
@@ -53,7 +51,7 @@
 
 ---
 
-### 🎧 wisdom
+### 🎧 wisdom haha 
 
 > _“Trees sway towards the light that paints their leaves”_  
 > — FarhaanAli
